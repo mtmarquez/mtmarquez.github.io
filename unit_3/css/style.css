@@ -1,0 +1,27 @@
+body {
+	font-family: "Courier New", monospace;
+	text-align: center;
+	background-color: #D9D8BD;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+h1 {
+	font-size: 60px;
+	text-transform: uppercase;
+}
+h2 {
+	color:#FFFFFF;
+	font-size: 40px;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+hr {
+	width: 200px;
+}
