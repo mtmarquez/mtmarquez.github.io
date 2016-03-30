@@ -1,0 +1,74 @@
+body {
+	background-image: url(../images/stone_bg.jpg);
+	background-size: cover;
+	font-family: "Josefin Sans", "Courier New", monospace;
+	color:#FFFFFF;
+	font-size: 20px;
+	text-align: center;
+}
+
+p {
+	max-width: 1000px;
+	text-align: center;
+	margin:0 auto;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 100px;
+	color: black;
+	line-height: 10px;
+}
+h2 {
+	color: white;
+	font-size: 40px;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+hr {
+	width: 200px;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px
+}
