@@ -1,0 +1,119 @@
+body {
+	background-image: url(../images/stone_bg.jpg);
+	background-size: cover;
+	font-family: "Josefin Sans", "Courier New", monospace;
+	color:#FFFFFF;
+	font-size: 20px;
+	text-align: center;
+}
+
+#wrapper {
+	width: 1260px;
+	margin: 0 auto;
+}
+
+p {
+	max-width: 1000px;
+	text-align: center;
+	margin:0 auto;
+	font-size: 15px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 52%;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 40%;
+}
+
+.column {
+	height:500px;
+	border: 1px black solid;
+	padding:20px;
+	margin:0;
+}
+
+#column1 {
+	width: 170px;
+	background-color: #E89C6C;
+	float: left;
+}
+
+#column2 {
+	float: center;
+	padding:0;
+}
+
+#column3 {
+	width:170px;
+	background-color: #FFC675;
+	float: right;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 80px;
+	color: black;
+	line-height: 10px;
+}
+
+h2 {
+	color: white;
+	font-size: 40px;
+}
+
+#slogan {
+	font-style: italic;
+	}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+	clear: both;
+}
+
+div {
+	background-color: #FFE2B8;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
